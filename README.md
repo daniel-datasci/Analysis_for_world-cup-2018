@@ -1,10 +1,9 @@
 # World Cup 2018 Data Analysis
 
-In this project, I did an in-depth analysis and visualization on the FIFA18 dataset. The dataset is collected at this [GitHub Repo](https://github.com/amanthedorkknight/fifa18-all-player-statistics). The goal is to predict the best possible international squad lineups for these 10 teams: France, Germany, Spain, England, Brazil, Argentina, Belgium, Portugal, Uruguay, and Croatia at the 2018 World Cup this summer in Russia. 
+In this project, I did an in-depth analysis and visualization on the FIFA18 dataset. The dataset is collected at this [GitHub Repo](https://github.comdaniel-datasci/fifa18-all-player-statistics). The goal is to predict the best possible international squad lineups for these 10 teams: France, Germany, Spain, England, Brazil, Argentina, Belgium, Portugal, Uruguay, and Croatia at the 2018 World Cup this summer in Russia. 
 
 The complete notebook can be accessed [here](http://nbviewer.jupyter.org/github/khanhnamle1994/fifa18/blob/master/Ideal_Team_Lineup_World_Cup_2018.ipynb).
 
-I also wrote an accompanied blog post: [FIFA World Cup 2018: A Data-Drive Approach to Ideal Team Line Up](https://towardsdatascience.com/fifa-world-cup-2018-a-data-driven-approach-to-ideal-team-line-ups-93505cfe36f8).
 
 ![world-cup](images/fifa-world-cup-2018.jpg)
 
@@ -29,6 +28,3 @@ The data is scraped from the website [https://sofifa.com][1] by extracting the P
 * [Python 2.7](https://www.python.org/download/releases/2.7/) or [Python 3.6](https://www.python.org/downloads/release/python-360/)
 * [Jupyter Notebook](http://jupyter.org/)
 
-## License
-
-MIT. See the LICENSE file for the copyright notice.
